@@ -324,19 +324,41 @@ ul#nav li.current a { color: #F06000; }
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
+.php{
+    width: 90%;
+    -moz-animation: photoshop 1s ease;
+    -webkit-animation: photoshop 1s ease;
 
+}
+.Laravel{
+    width: 70%;
+    -moz-animation: photoshop 1s ease;
+    -webkit-animation: photoshop 1s ease;
+
+}
+.Javascript{
+    width: 50%;
+    -moz-animation: photoshop 1s ease;
+    -webkit-animation: photoshop 1s ease;
+
+}
 .photoshop {
   	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: photoshop 1s ease;
+  	-webkit-animation: photoshop 1s ease;
+}
+.arduino {
+    width: 70%;
+    -moz-animation: illustrator 5s ease;
+    -webkit-animation: illustrator 5s ease;
 }
 .illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	width: 100%;
+  	-moz-animation: illustrator 5s ease;
+  	-webkit-animation: illustrator 5s ease;
 }
 .wordpress {
-  	width: 50%;
+  	width: 30%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
@@ -346,14 +368,19 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 80%;
+  	width: 100%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
+.nodejs {
+    width: 80%;
+    -moz-animation: html5 2s ease;
+    -webkit-animation: html5 2s ease;
+}
 .jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	width: 20%;
+  	-moz-animation: jquery 3s ease;
+  	-webkit-animation: jquery 3s ease;
 }
 
 @-moz-keyframes photoshop {
