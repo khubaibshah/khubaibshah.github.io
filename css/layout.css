@@ -425,7 +425,7 @@ ul#nav li.current a { color: #F06000; }
   100% { width: 90%;  }
 }
 @-webkit-keyframes html5 {
-  0%   { width: 0px;  }
+  100%   { width: 100px;  }
   100% { width: 100%;  }
 }
 @-webkit-keyframes jquery {
