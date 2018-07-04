@@ -336,6 +336,12 @@ ul#nav li.current a { color: #F06000; }
     -webkit-animation: photoshop 1s ease;
 
 }
+.bootstrap{
+    width: 80%;
+    -moz-animation: photoshop 1s ease;
+    -webkit-animation: photoshop 1s ease;
+
+}
 .Javascript{
     width: 50%;
     -moz-animation: photoshop 1s ease;
